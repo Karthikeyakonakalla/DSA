@@ -10,6 +10,7 @@ public class Subset_Sum {
         System.out.println(result   );
 
     }
+    //  it tells us the pick and not pick pattern in the dsa
    static  void printAll(int[] arr, List<Integer> list, int ind,int sum)
     {
         if(ind==arr.length)
